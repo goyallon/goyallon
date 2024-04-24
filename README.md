@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm investigating human body shape extraction and Marker less motion capture for biomechanical applications. 
-Besides :
+I'm investigating human body shape extraction and Marker less motion capture for biomechanical applications.   
+Besides :  
 - 💻 Computer Sciences
 - 👁️ Computer Vision
 - 🐍 Python

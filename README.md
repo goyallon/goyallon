@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm investigating human body shape extraction and Marker less motion capture for biomechanical applications. 
+- 💻 Computer Sciences
+- 👁️ Computer Vision
+- 🐍 Python
+- 🛳️ Docker
+
+Besides Computer Vision and Biomechanics, I'm interested in open and reproductible science, film photography and low-techs !
 
 <!--
 **goyallon/goyallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

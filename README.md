@@ -3,6 +3,7 @@ I'm investigating human body shape extraction and Marker less motion capture for
 Besides :  
 - 💻 Computer Sciences
 - 👁️ Computer Vision
+- 🧗 Biomechanics
 - 🐍 Python
 - 🛳️ Docker
   
